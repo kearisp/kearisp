@@ -1,0 +1,1 @@
+<img width="150" height="auto" alt="Logo" src="./images/logo.jpg" title="Kris Papercut" />
