@@ -145,6 +145,13 @@ Wocker Area is my primary pet project: a TypeScript-based monorepo and CLI for m
           alt="php"
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
     </a>
+    <a rel="nofollow" target="_blank" href="https://twig.symfony.com">
+        <img
+          width="40px"
+          height="40px"
+          alt="twig"
+          src="https://twig.symfony.com/images/logo.png" />
+    </a>
     <a rel="nofollow" target="_blank" href="https://www.postgresql.org">
         <img
           width="40px"
