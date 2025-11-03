@@ -1,4 +1,7 @@
-# Kris Papercut
+# Hi there 👋, I'm Kris Papercut
+
+I'm a passionate full-stack developer with expertise in web development and database management. I love creating
+efficient solutions and learning new technologies.
 
 <p align="center">
     <img
@@ -7,8 +10,14 @@
       src="assets/images/logo.jpg" />
 </p>
 
+### Main Pet Project: Wocker Area
 
-### Languages and Tools:
+Wocker Area is my primary pet project: a TypeScript-based monorepo and CLI for managing Docker-based web development environments (plugins for PostgreSQL, Redis, MongoDB, Elasticsearch, and more).
+
+- Homepage: https://kearisp.github.io/wocker
+- Repository: https://github.com/kearisp/wocker-area
+
+### Tech Stack 🛠
 
 <p align="left">
     <a rel="nofollow" target="_blank" href="https://babeljs.io/">
