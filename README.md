@@ -188,7 +188,11 @@ Wocker Area is my primary pet project: a TypeScript-based monorepo and CLI for m
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
     </a>
     <a rel="nofollow" target="_blank" href="https://sass-lang.com">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
+        <img
+          width="40px"
+          height="40px"
+          alt="sass"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
     </a>
     <a rel="nofollow" target="_blank" href="https://www.selenium.dev">
         <img
@@ -230,13 +234,20 @@ Wocker Area is my primary pet project: a TypeScript-based monorepo and CLI for m
           width="40px"
           height="40px"
           alt="vuetify"
-          src="https://bestofjs.org/logos/vuetify.svg"/>
+          src="https://bestofjs.org/logos/vuetify.svg" />
     </a>
     <a rel="nofollow" target="_blank" href="https://webpack.js.org">
         <img
+          width="40px"
+          height="40px"
           alt="webpack"
-          width="40"
-          height="40"
           src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" />
+    </a>
+    <a rel="nofollow" target="_blank" href="https://tailwindcss.com/">
+        <img
+          width="40px"
+          height="40px"
+          alt="tailwindcss"
+          src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
     </a>
 </p>
